@@ -1,5 +1,5 @@
-# 601-mini-project2
-Machine learning 
+## 601-mini-project2
+# Machine learning 
 Machine learning is a way to realize the artificial intelligence, which also are divided into several categories, such as, supervised learning, unsupervised learning, Semi-supervised learning and Reinforcement learning. Deep learning is the most active area of research in recent years, and it has been successfully applied in a lot of domains, such as speech recognition, natural language processing and computer vision [1]. Basically, it stems from artificial neural network, which is a kind of machine learning technique, but has more advanced and biomimetic merits than traditional machine learning methods.
 
 For tradition machine learning skills, some features designed by experts must be inputted to a model, and then these features will be trained to produce the weights of the model, which will be utilized during the process of classification. These methods were successfully implemented in the last ten years, but they sometimes show the inability in some applications with an extremely large scale of samples or high dimension samples. Therefore, deep learning-based method was introduced to conquer these problems. The most dramatic improvement of deep learning is that, it can learn the features of the target without any human experience and has multiple layers to learn uniqueness of the sample in depth [1] [2].
@@ -19,7 +19,7 @@ In conclusion,
 
 
 
-#Reference
+# Reference
 
 [1] LeCun, Yann, et al. “Deep Learning.” Nature, vol. 521, no. 7553, 2015, pp. 436–444.
 
