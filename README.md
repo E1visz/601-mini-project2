@@ -10,7 +10,7 @@ Image semantic segmentation is increasingly being of interest in computer vision
 
 In this report, Deeplab architecture would be introduced detailly. For the traditional segment problem, there are three challenge: Firstly, Continuous pooling and downsampling in traditional classification CNN leads to a decrease in spatial resolution. Secondly, Object-to-scale detection problems use re-adjusting scales and aggregating feature maps, but with a large amount of computation. Thirdly, Object-centric classification needs to ensure spatial transformation invariance. For DeeplabV1&V2, they use atrous convolution, which can adjust filters’ field-of-views and determined the feature resolution of the DNN. However, DeeplabV3 combines the advantages of encoder-decoder and Pyramid, which is good in capturing multi-scale context. Besides, DeeplabV3 employs astrous convolution with upsampled filters to extract dense feature maps and to capture long range content. Specifically, to encode multi-scale information, our proposed cascaded module gradually doubles the atrous rates while our proposed atrous spatial pyramid pooling module augmented with image-level features probes the features with filters at multiple sampling rates and effective field-of-views. The following table show the comparison between DeepLABv3 and other frameworks on the ASCAL VOC 2012 test set. And the Figure 1 shows the Visualization results of the DeeplabV3. In the experiment, there are numerous factors that might have influence of test results. For instance, employing small batch size is inefficient to train the model, while using larger batch size leads to better performance.
 
-<img scr="1571088706043.jpg">
+<img src="1571088706043.jpg">
 
 Table 1. Performance on PASCAL VOC 2012 test set
  
