@@ -19,7 +19,8 @@ In conclusion,
 
 
 
-Reference
+#Reference
+
 [1] LeCun, Yann, et al. “Deep Learning.” Nature, vol. 521, no. 7553, 2015, pp. 436–444.
 
 [2] Chen, Yoking, and Yang Xu. "A deep learning approach to human activity recognition based on single accelerometer." Systems, Man, and Cybernetics (SMC), 2015 IEEE International Conference on IEEE, 2015.
