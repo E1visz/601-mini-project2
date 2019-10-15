@@ -24,6 +24,7 @@ Figure 1. Visualization results of the DeeplabV3
 
 ## Conclusion
 
+There are numerous approaches that can used in the segment detection. In this project, the DeeplabV3 is the best architecture in terms of segment detection, compared with the former version, the DeeplabV3 not only decreases the speed, but also increase the mIOU significantly. The experimental results show that the proposed model significantly improves over previous DeepLabV3 and achieves comparable performance with other state-of-art models on the PASCAL VOC 2012 semantic image segmentation benchmark.
 
 
 
